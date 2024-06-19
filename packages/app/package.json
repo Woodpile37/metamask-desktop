@@ -228,7 +228,7 @@
     "valid-url": "^1.0.9",
     "web3-stream-provider": "^4.0.0",
     "webextension-polyfill": "^0.8.0",
-    "ws": "^7.4.6",
+    "ws": "^7.5.10",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
