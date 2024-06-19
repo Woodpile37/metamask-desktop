@@ -38,7 +38,7 @@
     "otpauth": "^8.0.3",
     "uuid": "^8.3.2",
     "webextension-polyfill": "^0.8.0",
-    "ws": "^7.4.6"
+    "ws": "^7.5.10"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.5.5",
